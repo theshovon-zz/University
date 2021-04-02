@@ -1,1 +1,1 @@
-# University
+# Common C programs
